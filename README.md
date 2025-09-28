@@ -2,87 +2,98 @@
   <img src=".github/images/banner-github.png" alt="Banner floresta com código entrelaçado" width="100%" />
 </p>
 
-# 🧶 Diane — Tecendo Qualidade entre Linhas e Sistemas
+# Olá, eu sou a Diane • Software Quality & Criatividade
 
-> “Assim como cada ponto no crochê dá forma a uma peça única, cada teste bem tecido sustenta a estrutura de um sistema.”
+"Assim como cada ponto no crochê dá forma a uma peça única, cada teste bem tecido sustenta a estrutura de um sistema.”
 
-Sou **Diane**, uma QA que tece qualidade entre **linhas de código, fios de crochê e sonhos digitais**.  
-Unindo **técnica e sensibilidade**, atuo para construir sistemas mais harmônicos, funcionais e humanos — como quem costura um filtro dos sonhos com propósito e intenção.
+Sou Analista de Qualidade de Software em constante evolução, construindo minha jornada rumo a Engenharia de Qualidade. Trago comigo não só a técnica dos testes, mas também o olhar cuidadoso dos detalhes, o mesmo que aplico nos meus projetos artesanais. Para mim, qualidade é sobre funcionar bem e também encantar.
+Minha marca é levar afeto! Seja no digital, com qualidade de entrega e atenção aos detalhes, ou na vida criativa, com sensibilidade e propósito em cada projeto.
+
 
 ---
 
-## 🪶 Cenários Tecidos — BDD & Gherkin
+<!-- Divisória temática -->
+<p align="center">
+  <img src=".github/images/divisoria-qa.png" alt="Divisória temática com ícones de QA" width="100%" />
+</p
+
+# <h1> Minha Jornada como Analista de Qualidade </h1>
+
+Sou **Analista de Qualidade de Software (QA)**, com foco em unir **técnica e sensibilidade** para garantir que cada produto seja não apenas funcional, mas também fluido e agradável.  
+Acredito que qualidade não é apenas encontrar erros, mas **tecer experiências confiáveis**, onde cada detalhe conta.  
+
+---
+
+## 🔍 O que eu faço
+
+- 🐞 **Caça a Bugs** — identificação, documentação e priorização de falhas  
+- ✅ **Testes Funcionais** — validação de fluxos principais e regras de negócio  
+- 🧩 **Testes de Integração e API** — garantindo harmonia entre sistemas  
+- 🌐 **Automação** — scripts em **Cypress** e **Postman/Newman** para agilizar cenários  
+- 📊 **Relatórios e Dashboards** — visão clara da qualidade e cobertura dos testes  
+
+---
+
 
 <table>
-  <tr>
-    <td width="50%">
-      <img src=".github/images/poster-bdd-vertical.png" alt="Pergaminho com cenário BDD" width="100%" />
-    </td>
-    <td width="50%">
-      <p><strong>BDD e Gherkin</strong> são o tear que dá forma à minha teia de qualidade.</p>
-      <ul>
-        <li>Cenários claros e legíveis conectando negócio e tecnologia</li>
-        <li>Validação precisa de fluxos e jornadas</li>
-        <li>Testes que revelam a intenção por trás do comportamento</li>
-      </ul>
-      <blockquote>
-        “Cada cenário é um fio essencial que sustenta o tecido do sistema.”
-      </blockquote>
-    </td>
-  </tr>
+<tr>
+  <td width="40%">
+    <img src=".github/images/flor-de-novembro.png"  alt="Flor de Novembro logo" width="100%" />
+  </td>
+  <td width="60%">
+    <p>
+      <strong><h1>Flor de Novembro</h1></strong> 
+       É o meu projeto artesanal, onde a criatividade floresce em forma de 
+      <em>crochê</em>, <em>filtros dos sonhos</em> e <em>mandalas</em>.  
+    </p>
+    <p>
+      É o espaço onde conecto minhas raízes manuais com o meu olhar de qualidade, unindo 
+      <strong>detalhes, paciência e cuidado</strong> — valores que também carrego na tecnologia.
+    </p>
+    <ul>
+      <li> Peças em crochê cheias de significado</li>
+      <li> Filtros dos sonhos que simbolizam proteção</li>
+      <li> Uma identidade que mistura natureza e afeto</li>
+    </ul>
+    <blockquote>
+      “Assim como nos testes de software, cada fio, ponto e detalhe importa para o resultado final.”
+    </blockquote>
+  </td>
+</tr>
 </table>
 
 ---
-
-## 🪡 Automação — Tecendo Precisão com Código
-
-<table>
-  <tr>
-    <td width="50%">
-      <p>Automação é o tear que transforma intenções em resultados.</p>
-      <ul>
-        <li>✨ <strong>Cypress</strong> — testes de interface e jornada do usuário</li>
-        <li>🔥 <strong>Postman</strong> — invocações de APIs e contratos</li>
-        <li>🌿 <strong>CI/CD</strong> — pipelines contínuos e confiáveis</li>
-      </ul>
-      <blockquote>
-        “Cada script automatizado é um ponto reforçado na teia digital.”
-      </blockquote>
-    </td>
-    <td width="50%">
-      <img src=".github/images/banner-linkedin.png" alt="Banner horizontal com caixa de código Python simbólico" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-
-
----
+<h1 align="center">📬 Contatos</h1>
 
 <table>
-  <tr>
-    <td width="40%">
-      <img src=".github/images/contato.png" alt="Ilustração de Diane, tecelã entre tecnologia e natureza" width="100%" />
-    </td>
-    <td width="60%">
-      <h2>🌿 Vamos tecer novas conexões?</h2>
-      <p>
-        Se quiser conversar sobre <strong>qualidade de software</strong>, <strong>automação</strong>, 
-        <strong>testes orientados a comportamento</strong> ou simplesmente trocar ideias sobre 
-        <strong>crochê, filtros dos sonhos</strong> e o elo entre <strong>arte e tecnologia</strong>, 
-        será um prazer me conectar com você!
-      </p>
-      <ul>
-        <li>💼 <a href="#">LinkedIn</a> — onde compartilho estudos e reflexões sobre QA</li>
-        <li>📁 <a href="#">Portfólio</a> — minha coleção de projetos e experimentos</li>
-        <li>📬 <a href="mailto:seuemail@exemplo.com">E-mail</a> — fale diretamente comigo</li>
-      </ul>
-      <blockquote>
-        “A tecnologia se torna mais humana quando é tecida com intenção.”
-      </blockquote>
-    </td>
-  </tr>
+<tr>
+  <!-- Imagem esquerda -->
+  <td width="25%" align="center">
+    <img src=".github/images/contato-esquerda.png" alt="Flor decorativa esquerda" width="80%" />
+  </td>
+  
+  <!-- Texto no meio -->
+  <td width="50%" align="center">
+    <p>
+      Você pode me encontrar e acompanhar meu trabalho tanto na área de 
+      <strong>Qualidade de Software</strong> quanto no meu universo criativo da 
+      <em>Flor de Novembro</em>.  
+    </p>
+    <p>
+      ✨ Vamos tecer conexões?  
+    </p>
+    <p>  
+      💼 <a href="https://linkedin.com/in/dianedematos">LinkedIn</a> |  
+      🌸 <a href="https://instagram.com/eujafuifofinha">Instagram</a>
+    </p>
+  </td>
+  
+  <!-- Imagem direita -->
+  <td width="25%" align="center">
+    <img src=".github/images/contato-direita.png" alt="Flor decorativa direita" width="80%" />
+  </td>
+</tr>
 </table>
+
+
 
