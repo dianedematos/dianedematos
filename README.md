@@ -38,6 +38,12 @@ Sou mãe do Gael 💙, meu pequeno parceiro de aventuras, jogos, descobertas e a
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dianedematos/dianedematos/output/snake-dark.svg" />
+    <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/dianedematos/dianedematos/output/snake.svg" />
+  </picture>
+</p>
 
 
 
