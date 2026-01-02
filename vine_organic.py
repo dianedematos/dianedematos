@@ -9,12 +9,12 @@ from datetime import date, datetime, timedelta, time
 START_MONTH = 9          # começa em setembro (9)
 VINE_BASE = 3            # 0=dom ... 6=sáb (3≈quarta)
 VINE_AMPLITUDE = 2       # "balanço" do caule (1–3)
-STEM_COMMITS = (1, 2)    # intensidade do caule (mantém discreto)
+STEM_COMMITS = (3, 6)    # intensidade do caule (mantém discreto)
 KNOT_EVERY = 13          # nózinho mais escuro a cada N colunas
 BRANCH_EVERY = 7         # a cada N colunas cria micro-ramo
 BRANCH_HEIGHT = 2        # quantas linhas o ramo sobe/desce
-BLOSSOM_SIZE = 2         # quantas colunas finais concentram "flor"
-BLOSSOM_EXTRA = 2        # commits extras em cada ponto da flor
+BLOSSOM_SIZE = 3         # quantas colunas finais concentram "flor"
+BLOSSOM_EXTRA = 4        # commits extras em cada ponto da flor
 COMMIT_HOUR = 12         # hora dos carimbos
 SEED = 1229              # mude para variar o desenho
 # =================================================

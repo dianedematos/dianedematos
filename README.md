@@ -30,20 +30,12 @@ Sou mãe do Gael 💙, meu pequeno parceiro de aventuras, jogos, descobertas e a
     <p>✨ Vamos tecer conexões?</p>
     <p>
       💼 <a href="https://linkedin.com/in/dianedematos">LinkedIn</a> |
-      🌸 <a href="https://instagram.com/eujafuifofinha">Instagram</a>
+      🌸 <a href="(48)99827-8581">Whatsapp</a>
     </p>
   </td>
 </tr>
 </table>
 
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dianedematos/dianedematos/output/snake-dark.svg" />
-    <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/dianedematos/dianedematos/output/snake.svg" />
-  </picture>
-</p>
 
 
 
