@@ -1,6 +1,3 @@
-<p align="center">
-  <img src=".github/images/banner-github.png" alt="Banner floresta com código entrelaçado" width="100%" />
-</p>
 
 # Olá, eu sou a Diane • Software Quality & Criatividade
 
